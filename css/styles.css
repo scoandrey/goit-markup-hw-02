@@ -70,6 +70,9 @@ a {
 .section-main {
   background-color: #2f303a;
 }
+.section-team {
+  background: #f5f4fa;
+}
 .about-name {
   font-weight: 900;
   font-size: 44px;
@@ -85,10 +88,12 @@ a {
   font-size: 16px;
   line-height: calc(30 / 16);
   letter-spacing: 0.06em;
+  color: #ffffff;
+  background: #2196f3;
 }
 .btn:hover,
 .btn:focus {
-  --background-color-btn: #2196f3;
+  --background-color-btn: #188ce8;
   background-color: var(--background-color-btn);
   color: #ffffff;
 }
@@ -114,10 +119,13 @@ a {
 }
 .team-name {
   font-weight: 500;
-  font-size: 16px;
-  line-height: calc(19 / 16);
+  font-size: 18px;
+  line-height: calc(36 / 18);
   letter-spacing: 0.03em;
   color: var(--primari-text-color);
+}
+.team {
+  background: #ffffff;
 }
 .prof {
   font-weight: 400;
