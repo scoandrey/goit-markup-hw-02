@@ -22,7 +22,7 @@ a {
 .nav-item {
   font-weight: 500;
   font-size: 14px;
-  line-height: calc(16p / 14);
+  line-height: 1.1;
   letter-spacing: 0.02em;
   color: var(--primari-text-color);
 }
@@ -30,7 +30,7 @@ a {
   font-family: "Raleway";
   font-weight: 700;
   font-size: 26px;
-  line-height: calc(31 / 26);
+  line-height: 1.2;
   letter-spacing: 0.03em;
   color: #2196f3;
 }
@@ -43,27 +43,27 @@ a {
 .nav-studio {
   font-weight: 500;
   font-size: 14px;
-  line-height: calc(16p / 14);
+  line-height: 1.1;
   letter-spacing: 0.02em;
   color: var(--primari-text-color);
 }
 .nav-item {
   font-weight: 500;
   font-size: 14px;
-  line-height: calc(16p / 14);
+  line-height: 1.1;
   letter-spacing: 0.02em;
 }
 .mail-header {
   font-weight: 500;
   font-size: 14px;
-  line-height: calc(16p / 14);
+  line-height: 1.1;
   letter-spacing: 0.02em;
   color: var(--secondary-text-color);
 }
 .tel-header {
   font-weight: 500;
   font-size: 14px;
-  line-height: calc(16p / 14);
+  line-height: 1.1;
   letter-spacing: 0.02em;
   color: var(--secondary-text-color);
 }
@@ -76,7 +76,7 @@ a {
 .about-name {
   font-weight: 900;
   font-size: 44px;
-  line-height: calc(60 / 44);
+  line-height: 1.4;
   letter-spacing: 0.06em;
   text-transform: uppercase;
   color: #ffffff;
@@ -86,7 +86,7 @@ a {
   cursor: pointer;
   font-weight: 700;
   font-size: 16px;
-  line-height: calc(30 / 16);
+  line-height: 1.9;
   letter-spacing: 0.06em;
   color: #ffffff;
   background: #2196f3;
@@ -100,27 +100,27 @@ a {
 .skill-name {
   font-weight: 700;
   font-size: 14px;
-  line-height: calc(16p / 14);
+  line-height: 1.1;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 .team-skills {
   font-weight: 400;
   font-size: 14px;
-  line-height: calc(24 / 14);
+  line-height: 1.7;
   letter-spacing: 0.03em;
   color: var(--secondary-text-color);
 }
 .picture-name {
   font-weight: 700;
   font-size: 36px;
-  line-height: calc(42 / 36);
+  line-height: 1.2;
   letter-spacing: 0.03em;
 }
 .team-name {
   font-weight: 500;
   font-size: 18px;
-  line-height: calc(36 / 18);
+  line-height: 2;
   letter-spacing: 0.03em;
   color: var(--primari-text-color);
 }
@@ -130,20 +130,20 @@ a {
 .prof {
   font-weight: 400;
   font-size: 16px;
-  line-height: calc(19 / 16);
+  line-height: 1.2;
   letter-spacing: 0.03em;
   color: var(--secondary-text-color);
 }
 .content {
   font-weight: 700;
   font-size: 18px;
-  line-height: calc(36 / 18);
+  line-height: 2;
   letter-spacing: 0.06em;
 }
 .content-name {
   font-weight: 400;
   font-size: 16px;
-  line-height: calc(30 / 16);
+  line-height: 1.9;
   letter-spacing: 0.03em;
   color: var(--secondary-text-color);
 }
@@ -154,7 +154,7 @@ a {
   font-weight: 400;
   font-size: 14px;
   font-style: normal;
-  line-height: calc(24 / 14);
+  line-height: 1.7;
   letter-spacing: 0.03em;
   color: #ffffff;
 }
@@ -162,7 +162,7 @@ a {
   font-weight: 400;
   font-size: 14px;
   font-style: normal;
-  line-height: calc(24 / 14);
+  line-height: 1.7;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
 }
