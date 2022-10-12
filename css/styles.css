@@ -91,6 +91,22 @@ a {
   color: #ffffff;
   background: #2196f3;
 }
+.btn-portf {
+  font-family: "Roboto", sans-serif;
+  cursor: pointer;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.6;
+  letter-spacing: 0.03em;
+  color: #212121;
+  background: #f5f4fa;
+}
+.btn-portf:hover,
+.btn-portf:focus {
+  --background-color-btn: #188ce8;
+  background-color: var(--background-color-btn);
+  color: #ffffff;
+}
 .btn:hover,
 .btn:focus {
   --background-color-btn: #188ce8;
